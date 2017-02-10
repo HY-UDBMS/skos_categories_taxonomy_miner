@@ -18,7 +18,7 @@ Arrange [SKOS Wikipedia Categories Dataset](http://wiki.dbpedia.org/services-res
 
 ##Sample Output
 
-* `wiki_cat.txt`:
+* `wiki_cat.txt` (1,372,446 lines):
 ```
 1	Futurama
 2	World War II
@@ -38,7 +38,7 @@ Arrange [SKOS Wikipedia Categories Dataset](http://wiki.dbpedia.org/services-res
 ...	...
 ```
 
-* `wiki_relation.txt`:
+* `wiki_relation.txt` (2,836,084 lines):
 
 ```
 1	4044
