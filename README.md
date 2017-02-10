@@ -1,9 +1,15 @@
 # skos_categories_taxonomy_miner
 Arrange [SKOS Wikipedia Categories Dataset](http://wiki.dbpedia.org/services-resources/documentation/datasets#skoscategories) into plain text files.
 
+##Requirements
+
+* JDK 8 (Java 1.8)
+* Project Lombok: https://projectlombok.org/
+* javatuples: http://www.javatuples.org/
+
 ##Input
 
-* `skos_categories_en.ttl`: DBpedia SKOS Categories dataset in `.ttl` format: http://wiki.dbpedia.org/downloads-2016-04.
+* `skos_categories_en.ttl`: DBpedia SKOS Categories dataset in `.ttl` format: http://wiki.dbpedia.org/downloads-2016-04
 
 ##Output
 
